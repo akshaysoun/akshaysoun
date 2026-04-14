@@ -29,3 +29,6 @@ I'm an MCA student who enjoys designing user-friendly interfaces, building respo
 Check out my work here: [Add your link]
 
 ---
+
+Passionate about building clean, user-focused experiences while continuously improving my skills and exploring new technologies
+
