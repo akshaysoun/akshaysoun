@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 HEY, I'M AKSHAY
 
-<!--
-**akshaysoun/akshaysoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ ABOUT ME
+I'm an MCA student who enjoys designing user-friendly interfaces, building responsive websites, and creating visual content that solves real problems.
 
-Here are some ideas to get you started:
+• Currently pursuing MCA  
+• Passionate about UI/UX design and web development  
+• Creating infographics and visual content  
+• Exploring AI and cybersecurity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 FEATURED WORK
+• Portfolio Website — Personal portfolio showcasing my work  
+• Responsive Websites — Built using HTML, CSS, JavaScript, Bootstrap  
+• UI/UX Designs — Clean and user-friendly interfaces  
+• Infographic Projects — AI & cybersecurity based designs  
+
+---
+
+## 🛠️ I WORK WITH
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,figma,github,vscode" />
+</p>
+
+---
+
+## 🌐 PORTFOLIO
+Check out my work here: [Add your link]
+
+---
