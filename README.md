@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 PORTFOLIO
-Check out my work here: [Add your link]
+Check out my work here: [https://akshaysoun22.my.canva.site/freelance-creative-portfolio-website}
 
 ---
 
